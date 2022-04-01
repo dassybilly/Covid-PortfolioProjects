@@ -1,7 +1,6 @@
 
 
-From PortfolioProject02.dbo.CovidDeaths
-Order by 3,4
+
 
 Select *
 From PortfolioProject02.dbo.CovidVaccinations
